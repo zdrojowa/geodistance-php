@@ -1,5 +1,5 @@
 {
-    "name": "0x13a/geodistance-php",
+    "name": "zdrojowa/geodistance-php",
     "description": "Calculate geodistance between two points, latitude and longitude",
     "keywords": ["geodistance", "gps", "distance", "harvesine"],
     "type": "library",
