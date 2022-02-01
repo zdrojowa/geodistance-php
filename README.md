@@ -11,7 +11,7 @@ simple & minimal geodistance php library to calculate geo distance between two p
 ## Installation
 
 ``` bash
-composer require 0x13a/geodistance-php
+composer require zdrojowa/geodistance-php
 ```
 
 ## Usage
